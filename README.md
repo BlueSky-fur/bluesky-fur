@@ -47,10 +47,6 @@ Hi, I'm BlueSky, a passionate self-taught front/backEnd developer from Germany.
 
 <a href="https://github.com/BlueSky-fur">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bluesky-fur&repo=LinuxGSM&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bluesky-fur&repo=simfphys_base&theme=material-palenight" />
 </a>    
-<a href="https://github.com/BlueSky-fur">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
 
