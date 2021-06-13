@@ -41,7 +41,7 @@ Hi, I'm BlueSky, a passionate self-taught front/backEnd developer from Germany.
 </a>
 <a href="https://github.com/BlueSky-fur">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BlueSky-fur&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky-fur&layout=compact&theme=material-palenight" />
 </a>
 
 
