@@ -12,7 +12,6 @@
 
 <br />
 <br />
-### About me
 
 Hi, I'm BlueSky, a passionate self-taught front/backEnd developer from Germany.
 
