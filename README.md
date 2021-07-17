@@ -15,7 +15,7 @@
 
 Hi, I'm BlueSky, a passionate self-taught front/backEnd developer from Germany.
 
-- 🔭 I’m currently working on [FiveM](https://github.com/orgs/CubeGaming-Development)
+- 🔭 I’m currently working on [FiveM](https://github.com/CubeGaming-Development/resources-fivem)
 - 🌱 I’m currently learning Java
 <!--- 
 - 👯 I’m looking to collaborate on [Placeholder](https://google.de)
