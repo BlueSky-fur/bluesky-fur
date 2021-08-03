@@ -13,10 +13,10 @@
 <br />
 <br />
 
-Hi, I'm BlueSky, a passionate self-taught front/backEnd developer from Germany.
+Hi, I'm BlueSky, a passionate and still learning self-taught Full-Stack Developer from Germany.
 
-- 🔭 I’m currently working on [FiveM](https://github.com/CubeGaming-Development/resources-fivem)
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on [FiveM CubeParadise Roleplay](https://github.com/CubeGaming-Development/resources-fivem)
+- 🌱 I’m currently learning CSS
 <!--- 
 - 👯 I’m looking to collaborate on [Placeholder](https://google.de)
 - 💬 Ask me about anything [On my Discord](https://github.com/anuraghazra/anuraghazra/issues)
