@@ -14,7 +14,7 @@
 <br />
 Hi, I'm BlueSky, a passionate and still learning self-taught Full-Stack Developer from Germany.
 
-- 🔭 I’m currently working on [FiveM CubeParadise Roleplay](https://github.com/CubeGaming-Development/resources-fivem)
+- 🔭 I’m currently working on [CubeGaming](https://github.com/CubeGaming-Development)
 - 🌱 I’m currently learning CSS
 <!--- 
 - 👯 I’m looking to collaborate on [Placeholder](https://google.de)
