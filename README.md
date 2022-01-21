@@ -12,7 +12,7 @@
 
 <br />
 <br />
-Hi, I'm BlueSky, a passionate and still learning self-taught Full-Stack Developer from Germany.
+Hi, I'm BlueSky, a passionate and still learning self-taught Developer from Germany.
 
 - 🔭 I’m currently working on [CubeGaming](https://github.com/CubeGaming-Development)
 - 🌱 I’m currently learning CSS
