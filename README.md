@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"> 
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white">
 </p>
-<h3>Skills & Technologies</h3>
+<h3>Skills & Technologies (All Self-Taught, varied skill-levels</h3>
 <p>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=Atlassian&logoColor=white">
